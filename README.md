@@ -33,5 +33,5 @@
   </a>
 </p>
 
-[![StackOverflow](https://img.shields.io/badge/stack-design--pattern-yellow)]()
-[![OpenIssues](https://img.shields.io/github/issues/sriThariduSangeeth/Lp-java-design-pattern-ex)]()
+[![StackOverflow](https://img.shields.io/badge/stack-design--pattern-yellow)](https://github.com/sriThariduSangeeth/Lp-java-design-pattern-ex)
+[![OpenIssues](https://img.shields.io/github/issues/sriThariduSangeeth/Lp-java-design-pattern-ex)](https://github.com/sriThariduSangeeth/Lp-java-design-pattern-ex/issues)
