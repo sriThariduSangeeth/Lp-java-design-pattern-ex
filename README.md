@@ -4,6 +4,7 @@
 <br>
 <p>This repo will explain how to demo java design pattern with real world example.</p>
 
+<p><strong>Design Patterns</strong> are very popular among software developers. A design pattern is a well-described solution to a common software problem.</p>
 
 <h2>Content&ensp;&ensp;:book: :book:</h2>
 
