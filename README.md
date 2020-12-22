@@ -1,6 +1,6 @@
 
 <h3 align="center">:rotating_light: :construction:&ensp;&ensp;Work In Progress&ensp;&ensp;:construction: :rotating_light:</h3>
-<h1 align="center">Lp-java-design-pattern-ex</h1>
+<h1 align="center">Lp java design pattern example</h1>
 <br>
 <p>This repo will explain how to demo java design pattern with real world example.</p>
 
@@ -15,7 +15,7 @@
 
 <h2>License</h2>
 
-<p>Licenses this source under the MIT License,([LICENSE](LICENSE)), You may not use this file except in compliance with the License.</p>
+<p>Licenses this source under the MIT License,You may not use this file except in compliance with the License.</p>
 
 <!-- Badges -->
 <p align="left">
