@@ -5,7 +5,7 @@
 <p>This repo will explain how to demo java design pattern with real world example.</p>
 
 
-<h2>Content</h2>
+<h2>Content&ensp;&ensp;:book: :book:</h2>
 
 <ul>
   <li>Singleton design pattern</li>
@@ -24,7 +24,7 @@
   </a>
 </p>
 
-<h3><u>Created Date</u></h3>
+<h3><u>:alarm_clock:&ensp;&ensp;Created Date</u></h3>
 <!-- Date -->
 <p >
   <a href="DATE.md">
