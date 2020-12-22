@@ -15,7 +15,7 @@
 
 <h2>License</h2>
 
-<p>Licenses this source under the MIT License,You may not use this file except in compliance with the License.</p>
+<p>Licenses this source under the <u>MIT License</u>,You may not use this file except in compliance with the License.</p>
 
 <!-- Badges -->
 <p align="left">
@@ -24,6 +24,7 @@
   </a>
 </p>
 
+<h3><u>Created Date</u></h3>
 <!-- Date -->
 <p >
   <a href="DATE.md">
