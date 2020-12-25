@@ -3,7 +3,6 @@ package com.virtusa.imp;
 import java.io.*;
 import java.util.Properties;
 
-import static com.virtusa.util.Constants.JETTY_SERVER_POST;
 
 /**
  * @author dtsangeeth
