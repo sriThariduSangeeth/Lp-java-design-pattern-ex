@@ -7,9 +7,9 @@ this in such a way that the saved state data of the object is not accessible out
 <p>One of the best real life example is the text editors where we can save it’s data anytime and use undo to restore it to previous saved state.</p>
 
 <!-- gif -->
-<p >
+<p align="center">
   <a>
-    <img src="../assest/text.gif"  width="40" height="40">
+    <img src="../assest/text.gif"  width="100" height="100">
   </a>
 </p>
 
