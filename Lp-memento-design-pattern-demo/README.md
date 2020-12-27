@@ -5,3 +5,12 @@ Memento design pattern is used when we want to save the state of an object so th
 this in such a way that the saved state data of the object is not accessible outside of the object, this protects the integrity of saved state data.</p>
 
 <p>One of the best real life example is the text editors where we can save it’s data anytime and use undo to restore it to previous saved state.</p>
+
+<h3><u>:video_camera:&ensp;&ensp;Youtube Example :</u></h3>
+
+<!-- Youtube -->
+<p >
+  <a>
+    <img src="https://img.shields.io/youtube/likes/Pwm-jrG2ZVA?list=PLD-mYtebG3X86i3uyAXwZKfVtUy2gMDdo?color=green&style=social"  height="18">
+  </a>
+</p>
