@@ -12,3 +12,12 @@ The implementation of Java Singleton pattern has always been a controversial top
 <li>Singleton design pattern is also used in other design patterns like Abstract Factory, Builder, Prototype, Facade etc.</li>
 <li>Singleton design pattern is used in core java classes also, for example <code>java.lang.Runtime</code>, <code>java.awt.Desktop</code>.</li>
 </ul>
+
+<h3><u>:video_camera:&ensp;&ensp;Youtube Example :</u></h3>
+
+<!-- Youtube -->
+<p >
+  <a>
+    <img src="https://img.shields.io/youtube/likes/8W-BeJH1aO0?list=PLD-mYtebG3X86i3uyAXwZKfVtUy2gMDdo?style=social"  height="18">
+  </a>
+</p>

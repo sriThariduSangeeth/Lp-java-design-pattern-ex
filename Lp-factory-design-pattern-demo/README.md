@@ -6,3 +6,12 @@
 
 <h3><span id="factory-design-pattern-advantages">:a:&ensp;&ensp; Factory Design Pattern Advantages</span></h3>
 <ol><li>Factory design pattern provides approach to code for interface rather than implementation.</li><li>Factory pattern removes the instantiation of actual implementation classes from client code. Factory pattern makes our code more robust, less coupled and easy to extend. For example, we can easily change PC class implementation because client program is unaware of this.</li><li>Factory pattern provides abstraction between implementation and client classes through inheritance.</li></ol>
+
+<h3><u>:video_camera:&ensp;&ensp;Youtube Example :</u></h3>
+
+<!-- Youtube -->
+<p >
+  <a>
+    <img src="https://img.shields.io/youtube/likes/g7RfBhO-rhU?list=PLD-mYtebG3X86i3uyAXwZKfVtUy2gMDdo?style=social"  height="18">
+  </a>
+</p>
