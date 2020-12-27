@@ -17,7 +17,7 @@
 <!-- JDP -->
 <p align="center">
   <a>
-    <img src="./assest/jdp.png"  width="100" height="100">
+    <img src="./assest/jdp.png"  width="300" height="250">
   </a>
 </p>
 

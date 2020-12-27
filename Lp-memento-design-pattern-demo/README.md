@@ -9,7 +9,7 @@ this in such a way that the saved state data of the object is not accessible out
 <!-- gif -->
 <p align="center">
   <a>
-    <img src="../assest/text.gif"  width="300" height="250">
+    <img src="../assest/text.gif"  width="100" height="100">
   </a>
 </p>
 
