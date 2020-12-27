@@ -9,10 +9,12 @@
 <h2>Content&ensp;&ensp;:book: :book:</h2>
 
 <ul>
-  <li>Singleton design pattern</li>
-  <li>Factory design pattern</li>
-  <li>Memento design pattern</li>
+    <li>Singleton design pattern</li>
+    <li>Factory design pattern</li>
+    <li>Memento design pattern</li>
     <li>Prototype design pattern</li>
+    <li>Builder design pattern</li>
+    <li>Chain of responsibility design pattern</li>
 </ul>  
 
 <!-- JDP -->
