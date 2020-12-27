@@ -14,6 +14,13 @@
   <li>Memento design pattern</li>
 </ul>  
 
+<!-- JDP -->
+<p align="center">
+  <a>
+    <img src="./assest/jdp.png"  width="100" height="100">
+  </a>
+</p>
+
 <h2>License</h2>
 
 <p>Licenses this source under the <u>MIT License</u>,You may not use this file except in compliance with the License.</p>
