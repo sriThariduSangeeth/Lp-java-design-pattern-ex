@@ -12,6 +12,7 @@
   <li>Singleton design pattern</li>
   <li>Factory design pattern</li>
   <li>Memento design pattern</li>
+    <li>Prototype design pattern</li>
 </ul>  
 
 <!-- JDP -->
