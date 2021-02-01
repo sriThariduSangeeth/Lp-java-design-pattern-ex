@@ -1,4 +1,4 @@
-package com.virtusa.memento;
+package com.sangeeth.memento;
 
 /**
  * @author dtsangeeth

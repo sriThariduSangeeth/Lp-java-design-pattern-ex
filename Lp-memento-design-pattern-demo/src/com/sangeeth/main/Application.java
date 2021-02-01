@@ -1,7 +1,7 @@
-package com.virtusa.main;
+package com.sangeeth.main;
 
-import com.virtusa.memento.FileWriterCaretaker;
-import com.virtusa.memento.FileWriterUtil;
+import com.sangeeth.memento.FileWriterCaretaker;
+import com.sangeeth.memento.FileWriterUtil;
 
 /**
  * @author dtsangeeth
