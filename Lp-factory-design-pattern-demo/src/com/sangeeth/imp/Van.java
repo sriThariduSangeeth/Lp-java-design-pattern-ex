@@ -1,4 +1,4 @@
-package com.virtusa.imp;
+package com.sangeeth.imp;
 
 import java.util.Date;
 
@@ -7,34 +7,36 @@ import java.util.Date;
  * @created 15 / 12 / 2020
  * @project LPTraining
  */
-public class Car extends Vehicle{
+public class Van  extends Vehicle{
 
-    private String carColor;
-    private int numberOfDoor;
 
-    public Car(String type , String id , String brand , Date date , String color , int door){
+    private Double cargoVolume;
+    private int numberOfTire;
+
+    public Van(String type , String id , String brand , Date date , Double cargo , int tire){
         vehicleType = type;
         idPlate = id;
         vehicleBrand = brand;
         dateTime = date;
-        carColor = color;
-        numberOfDoor = door;
+        cargoVolume = cargo;
+        numberOfTire = tire;
     }
 
-    public String getColor(){
-        return this.carColor;
+
+    public int getNumberOfTire() {
+        return numberOfTire;
     }
 
-    public void setColor(String color){
-        this.carColor = color;
+    public void setNumberOfTire(int numberOfTire) {
+        this.numberOfTire = numberOfTire;
     }
 
-    public int getNumberOfDoor(){
-        return this.numberOfDoor;
+    public Double getCargoVolume() {
+        return cargoVolume;
     }
 
-    public void setNumberOfDoor(int numberOfDoor){
-        this.numberOfDoor = numberOfDoor;
+    public void setCargoVolume(Double cargoVolume) {
+        this.cargoVolume = cargoVolume;
     }
 
     @Override
@@ -44,7 +46,7 @@ public class Car extends Vehicle{
 
     @Override
     public void setVehicleType(String vehicleType) {
-
+        this.vehicleType = vehicleType;
     }
 
     @Override
@@ -54,7 +56,7 @@ public class Car extends Vehicle{
 
     @Override
     public void setIdPlate(String idPlate) {
-
+        this.idPlate = idPlate;
     }
 
     @Override
@@ -64,7 +66,7 @@ public class Car extends Vehicle{
 
     @Override
     public void setVehicleBrand(String vehicleBrand) {
-
+        this.vehicleBrand = vehicleBrand;
     }
 
     @Override
@@ -74,6 +76,6 @@ public class Car extends Vehicle{
 
     @Override
     public void setDateTime(Date dateTime) {
-
+        this.dateTime = dateTime;
     }
 }

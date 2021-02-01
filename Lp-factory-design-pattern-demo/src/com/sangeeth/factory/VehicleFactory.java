@@ -1,9 +1,9 @@
-package com.virtusa.factory;
+package com.sangeeth.factory;
 
-import com.virtusa.imp.Car;
-import com.virtusa.imp.Motorbike;
-import com.virtusa.imp.Van;
-import com.virtusa.imp.Vehicle;
+import com.sangeeth.imp.Car;
+import com.sangeeth.imp.Motorbike;
+import com.sangeeth.imp.Van;
+import com.sangeeth.imp.Vehicle;
 
 import java.util.Date;
 

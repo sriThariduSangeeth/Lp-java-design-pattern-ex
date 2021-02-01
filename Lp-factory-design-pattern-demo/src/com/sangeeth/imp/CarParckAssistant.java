@@ -1,8 +1,8 @@
-package com.virtusa.imp;
+package com.sangeeth.imp;
 
-import com.virtusa.factory.VehicleFactory;
-import com.virtusa.main.Application;
-import com.virtusa.util.ColorBank;
+import com.sangeeth.factory.VehicleFactory;
+import com.sangeeth.main.Application;
+import com.sangeeth.util.ColorBank;
 
 import java.io.IOException;
 import java.text.DateFormat;
