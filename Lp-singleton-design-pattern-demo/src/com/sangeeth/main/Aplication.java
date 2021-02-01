@@ -1,10 +1,10 @@
-package com.virtusa.main;
+package com.sangeeth.main;
 
-import com.virtusa.imp.ReadPropertyFile;
+import com.sangeeth.imp.ReadPropertyFile;
 
 import java.util.Properties;
 
-import static com.virtusa.util.Constants.JETTY_SERVER_POST;
+import static com.sangeeth.util.Constants.JETTY_SERVER_POST;
 
 /**
  * @author dtsangeeth
