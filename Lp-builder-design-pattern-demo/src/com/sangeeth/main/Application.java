@@ -1,6 +1,6 @@
-package com.virtusa.main;
+package com.sangeeth.main;
 
-import com.virtusa.imp.Computer;
+import com.sangeeth.imp.Computer;
 
 /**
  * @author dtsangeeth
